@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Ứng Dụng Nhạc - Shiin</string>
+
+    <string name="menu_home">Trang Chủ</string>
+    <string name="menu_all_songs">Tất Cả Bài Hát</string>
+    <string name="menu_featured_songs">Bài Hát Nổi Bật</string>
+    <string name="menu_popular_songs">Bài Hát Phổ Biến</string>
+    <string name="menu_new_songs">Bài Hát Mới</string>
+    <string name="menu_favorite_songs">Bài Hát Yêu Thích</string>
+    <string name="menu_feedback">Phản Hồi</string>
+    <string name="menu_contact">Liên Hệ</string>
+    <string name="menu_change_password">Đổi Mật Khẩu</string>
+    <string name="menu_sign_out">Đăng Xuất</string>
+
+    <string name="play_all">Phát tất cả</string>
+    <string name="view_all">Xem tất cả</string>
+    <string name="music_player">Trình Phát Nhạc</string>
+    <string name="views">Lượt xem</string>
+    <string name="label_start_time">00:00</string>
+    <string name="label_add_song">Thêm Bài Hát</string>
+    <string name="label_update_song">Cập Nhật Bài Hát</string>
+
+    // action
+    <string name="action_ok">Đồng Ý</string>
+    <string name="action_cancel">Hủy</string>
+
+    // Validate
+    <string name="name_require">Vui lòng nhập tên của bạn</string>
+    <string name="comment_require">Vui lòng nhập bình luận</string>
+
+    // Hint
+    <string name="hint_search_name">Tên bài hát…</string>
+
+    // Label
+    <string name="label_artist">Ca sĩ:</string>
+
+    // Message
+    <string name="msg_please_waiting">Vui lòng đợi…</string>
+    <string name="msg_send_feedback_success">Gửi phản hồi thành công!</string>
+    <string name="msg_exit_app">Bạn có chắc chắn muốn thoát?</string>
+    <string name="msg_get_date_error">Lỗi hệ thống, vui lòng thử lại sau</string>
+
+    // Module user
+    <string name="hint_email">Email…</string>
+    <string name="hint_password">Mật khẩu…</string>
+    <string name="hint_password_old">Mật khẩu cũ…</string>
+    <string name="hint_password_new">Mật khẩu mới…</string>
+    <string name="hint_password_confirm">Xác nhận mật khẩu mới…</string>
+
+    <string name="admin">Quản Trị Viên</string>
+    <string name="user">Người Dùng</string>
+    <string name="sign_up">Đăng Ký</string>
+    <string name="have_account">Đã có tài khoản?</string>
+    <string name="have_not_account">Chưa có tài khoản?</string>
+    <string name="sign_in">Đăng Nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="sign_out">Đăng Xuất</string>
+    <string name="reset_password">Đặt lại mật khẩu</string>
+
+    <string name="msg_email_require">Vui lòng nhập email</string>
+    <string name="msg_password_require">Vui lòng nhập mật khẩu</string>
+    <string name="msg_email_invalid">Email không hợp lệ</string>
+    <string name="msg_email_invalid_admin">Email quản trị viên phải có định dạng …@admin.com</string>
+    <string name="msg_email_invalid_user">Định dạng email không đúng cho người dùng</string>
+
+    <string name="msg_old_password_require">Vui lòng nhập mật khẩu cũ</string>
+    <string name="msg_new_password_require">Vui lòng nhập mật khẩu mới</string>
+    <string name="msg_confirm_password_require">Vui lòng xác nhận mật khẩu mới</string>
+    <string name="msg_old_password_invalid">Mật khẩu cũ không đúng</string>
+    <string name="msg_confirm_password_invalid">Xác nhận mật khẩu mới không khớp</string>
+    <string name="msg_new_password_invalid">Mật khẩu mới giống với mật khẩu cũ</string>
+
+    <string name="msg_change_password_successfully">Đổi mật khẩu thành công</string>
+    <string name="msg_reset_password_successfully">Đặt lại mật khẩu thành công, vui lòng kiểm tra email</string>
+
+    <string name="msg_sign_up_error">Đăng ký thất bại, vui lòng thử lại</string>
+    <string name="msg_sign_in_error">Đăng nhập thất bại, vui lòng thử lại</string>
+
+    <string name="song_name">Tên bài hát(*)</string>
+    <string name="song_artist">Ca sĩ(*)</string>
+    <string name="song_image">Hình ảnh(*)</string>
+    <string name="song_link_url">Đường dẫn(*)</string>
+    <string name="song_featured">Nổi bật</string>
+    <string name="song_latest">Mới nhất</string>
+    <string name="label_featured">Nổi bật:</string>
+    <string name="label_latest">Mới nhất:</string>
+
+    <string name="action_add">Thêm</string>
+    <string name="action_edit">Cập Nhật</string>
+
+    <string name="msg_delete_title">Xác nhận xóa</string>
+    <string name="msg_confirm_delete">Bạn có chắc chắn muốn xóa mục này?</string>
+    <string name="msg_delete_movie_successfully">Xóa bài hát thành công</string>
+    <string name="msg_name_song_require">Vui lòng nhập tên bài hát</string>
+    <string name="msg_artist_song_require">Vui lòng nhập tên ca sĩ</string>
+    <string name="msg_image_song_require">Vui lòng nhập hình ảnh</string>
+    <string name="msg_link_song_require">Vui lòng nhập đường dẫn</string>
+    <string name="msg_edit_song_success">Cập nhật bài hát thành công</string>
+    <string name="msg_add_song_success">Thêm bài hát thành công</string>
+
+    <string name="label_facebook">Facebook</string>
+    <string name="label_call">Gọi Điện</string>
+    <string name="label_gmail">Gmail</string>
+    <string name="label_youtube">Youtube</string>
+    <string name="label_zalo">Zalo</string>
+
+    <string name="feedback_name">Họ và tên (*)</string>
+    <string name="feedback_email">Email</string>
+    <string name="feedback_phone">Số điện thoại</string>
+    <string name="feedback_comment">Bình luận (*)</string>
+    <string name="send_feedback">Gửi Phản Hồi</string>
+    
+    <string name="listen_single">lượt nghe</string>
+    <string name="listen_plural">lượt nghe</string>
+    
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+</resources>
