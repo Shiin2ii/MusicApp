@@ -1,4 +1,5 @@
 # 🎵 Ứng Dụng Nhạc - Shiin
+<img width="658" height="686" alt="image" src="https://github.com/user-attachments/assets/2f3a333e-343e-4fdc-9936-f6dd624168ea" />
 
 ## Giới thiệu
 
